@@ -1,5 +1,6 @@
 ### Hi all 👋 I'm Jarosław Klimczyk
 
+[linkedin]: https://www.linkedin.com/in/jaros%C5%82aw-klimczyk-39059813a/
 <!--
 **Jarosklimas/jarosklimas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
