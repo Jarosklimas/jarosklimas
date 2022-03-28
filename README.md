@@ -1,9 +1,11 @@
-### Hi all 👋 I'm Jarosław Klimczyk ?
-I am a  software engineer from Poland- ? Working  in the automotive industry.
-<br>## Connect with me
+### Hi all 👋I'm Jarosław Klimczyk 
+I'm a software engineer from Poland. Working  in the automotive industry.
+<br>
+## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jaros%C5%82aw-klimczyk-39059813a/)
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/profile.php?id=100000745583308)<br>
-<br>## Expertise
+<br>
+## Expertise
 <img align="left" alt="Python" src="https://img.shields.io/badge/python%20-%2320232a.svg?&style=for-the-badge&logo=python&logoColor=%2361DAFB" />
 <img align="left" alt="C++" src="https://img.shields.io/badge/C++%20-%2343853D.svg?&style=for-the-badge&logo=C++&logoColor=white" />
 <img align="left" alt="C" src="https://img.shields.io/badge/C%20-%23232F3E?logo=C&logoColor=white&style=for-the-badge" /><br>
